@@ -40,7 +40,7 @@ color: white;
 .search-box > input {
     width: 90%;
     height: 35px;
-
+    padding-left:10px
     margin-right: auto;
     border: none;
 }
